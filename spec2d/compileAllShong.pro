@@ -1,0 +1,11 @@
+.comp shong_examine_sky.pro
+.comp shong_histogram.pro
+.comp shong_histogramRead.pro
+.comp shong_linearbaseline.pro
+.comp shong_page_file.pro
+.comp shong_runDetection.pro
+.comp shong_dumpDetection.pro
+.comp shong_combineExposures.pro
+.comp shong_dumpDetectionNoSmooth.pro
+.comp shong_dumpDetectionNoSmoothGoodFit.pro
+.comp shong_dumpNoDetectionNoSmoothGoodFit.pro
