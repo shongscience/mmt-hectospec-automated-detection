@@ -18,10 +18,21 @@ Automated detection routines written in IDL for MMT/Hectospec (Hong et al. 2014,
   
   We assume that we have a fully reduced data from HSRED, "ex.fits", in "~/work/" directory. This ex.fits is supposed to have 300 spectra.
  
-    A. Compile my "shong" files
+    A. Compile my "shong" files : 
+    
       IDL> @compileAllShong.pro
-    B. aa
-      IDL> 
+
+    B. Lauch the interactive investigating mode : (This is a hacked verson of hs_page_file.pro) 
+      
+      IDL> shong_page_file, 'ex.fits' 
+      
+    C. type "help" to see all possible menus 
+    
+      "x" will set the searching range, and many other useful commands. 
+      "dumpdetecnosmooth" will dump all potential detections on the "./detection" folder. 
+      "stop" to exit this "shong_page_file" mode. 
+      
+    
   
 
 3. 
