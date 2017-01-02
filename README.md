@@ -37,7 +37,7 @@ Automated detection routines written in IDL for MMT/Hectospec (Hong et al. 2014,
       IDL>.comp mmtExtractDump.pro
       IDL> mmtExtractDump,'pm1lae.list’,dldp=1.1,histymax=10  ;; dldp is lambda per pixel
       
-      ** There are some hard-wired simulation data of reliability and completeness of detections, applicable to MMT/Hectospec only. 
+      ** There are hard-wired montecarlo simulation data of reliability and completeness of detections, applicable to MMT/Hectospec only. 
 
     E. The attached "eps" files are automatically generated. 
 
