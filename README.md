@@ -39,5 +39,5 @@ Automated detection routines written in IDL for MMT/Hectospec (Hong et al. 2014,
       
       ** There are some hard-wired simulation data of reliability and completeness of detections, applicable to MMT/Hectospec only. 
 
-    E. Then we have all detection information as attached "eps" files. 
+    E. The attached "eps" files are automatically generated. 
 
