@@ -29,7 +29,7 @@ Automated detection routines written in IDL for MMT/Hectospec (Hong et al. 2014,
     C. type "help" to see all possible menus for shong_page_file mode :
     
       "x" will set the searching range; and many other useful commands. 
-      "dumpdetecnosmooth" will dump all potential detections on the "./detection" folder. 
+      "dumpdetectnosmooth" will dump all potential detections on the "./detection" folder. 
       "stop" to exit this "shong_page_file" mode. 
       
     D. move on to the ./detection/ folder and run mmtExtractDump.pro : This will generate all pictures shown in Hong et al. 2014
